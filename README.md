@@ -29,6 +29,12 @@ For the best visual experience, please set the following on your device:
 ## Requirements 
 - Magisk or Kitsune Mask ( ROOT )
 
+## Helping & Compatibility
+
+If you tested this module on your Galaxy A54, Galaxy S series, Galaxy Young, Galaxy Spica, iPhone 4s, Nexus 3, or whatever shitty you have, please let me know by opening an Issue!
+
+I will add your device to the "Compatible Devices" list so others can flash it with confidence.
+
 ## Credits
 Developed by SamirPSA.
 Special thanks to my mama
