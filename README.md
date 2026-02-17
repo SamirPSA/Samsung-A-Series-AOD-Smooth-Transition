@@ -3,7 +3,7 @@
 This Magisk module enables high-end system animations and unlocks the smooth Always On Display (AOD) transition on the Samsung Galaxy A Series
 
 ## IMPORTANT
-THIS WAS TESTED ON A SAMSUNG GALAXY A34 5G WITH ONEUI 7 ANDROID 15, IM NOT SURE IF THIS WOULD WORK ON OTHER SAMSUNG DEVICES, BUT YOU HAVE NOTHING TO LOSE, I READ THAT SOME PEOPLE HAVE THIS ISSUE ON ONEUI 7 SO IM HERE TO TRY TO HELP.
+THIS WAS TESTED ON A SAMSUNG GALAXY A34 5G WITH ONEUI 7 ANDROID 15, IM NOT SURE IF THIS WOULD WORK ON OTHER SAMSUNG DEVICES, BUT YOU HAVE NOTHING TO LOSE, I READ THAT SOME PEOPLE HAVE THIS ISSUE ON ONEUI 7 SO IM HERE TO TRY TO HELP. | THIS MAYBE WOULD DRY YOUR BATERRY A LITTLE BIT MORE, NOTHING TO WORRY IF YOUR DISPLAY IS OLED.
 
 ## Why this module?
 By default, Samsung limits the Galaxy A-series to "LowEnd" or "Mid" animation profiles (`sep_lite`). This module "spoofs" the system features to match flagship devices (S23/S24), enabling smoother fades and visual continuity that are otherwise disabled.
